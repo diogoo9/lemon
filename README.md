@@ -6,6 +6,8 @@ instalar as dependencias
 
 $ npm i
 
+rodar a api, usando a porta 3000
+
 $ npm run start
 
 ## Endpoints
