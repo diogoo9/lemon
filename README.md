@@ -1,6 +1,6 @@
 # Api para consultar elegibilidade de conta de consumo
 
-## Execao
+## Execucao
 
 instalar as dependencias
 
